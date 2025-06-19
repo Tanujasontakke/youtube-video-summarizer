@@ -30,7 +30,7 @@ pip install -r requirements.txt
 
 ### 🖼️ Screenshot
 
-![App Screenshot](screenshot 1.png)
+![App Screenshot](screenshot1.png)
 
-![Summary Demo](screenshot 2.png)
+![Summary Demo](screenshot2.png)
 
