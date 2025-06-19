@@ -27,3 +27,10 @@ cd youtube-video-summarizer
 python -m venv venv
 source venv/bin/activate  # Or .\venv\Scripts\activate on Windows
 pip install -r requirements.txt
+
+### 🖼️ Screenshot
+
+![App Screenshot](screenshot 1.png)
+
+![Summary Demo](screenshot 2.png)
+
